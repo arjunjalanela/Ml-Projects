@@ -1,1 +1,3 @@
-#end to end machine learning project#
+●	Developed a machine learning model to predict student project performance using academic, behavioral, and project-related features; achieved high prediction accuracy through feature engineering and model optimization. 
+●	Performed data preprocessing and exploratory data analysis (EDA) to identify key performance indicators, handle missing data, and visualize trends affecting student outcomes. 
+●	Implemented and compared multiple ML algorithms (Linear Regression, Random Forest, XGBoost) to select the best-performing model, and evaluated results using metrics like R² score, MAE, and RMSE. 
